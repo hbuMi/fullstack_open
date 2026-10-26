@@ -1,0 +1,25 @@
+{
+  "persons": [
+    {
+      "name": "Mary Poppendieck",
+      "number": "39-23-6423122",
+      "id": "4"
+    },
+    {
+      "name": "koira",
+      "number": "2",
+      "id": "6jCx4n8tQGM"
+    },
+    {
+      "name": "ww",
+      "number": "22",
+      "id": "AZheaEctyA0"
+    },
+    {
+      "name": "ay",
+      "number": "2",
+      "id": "AV0jHJ-BjPQ"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
